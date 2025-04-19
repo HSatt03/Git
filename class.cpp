@@ -4,8 +4,13 @@ class test
 {
     int a;
     int b;
+public:
+    test()
+    {
+        
+    }
 }
 int main()
 {
-    
+
 }
